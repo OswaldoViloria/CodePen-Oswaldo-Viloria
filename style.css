@@ -1,0 +1,74 @@
+<head>
+        <meta charset="UTF-8">
+        <title>Animales en Peligro de Extinción</title>
+        <style>
+    .Titulo{
+        text-align: center;
+        color:rgb(255, 255, 255);
+        font-size: 60px;
+        margin-bottom: 15px;
+        
+        
+    }
+    .otros-div, .tabla{
+      border: 7px outset rgb(136, 204, 136);
+      border-radius: 15px;
+      background-color:rgb(136, 204, 136);
+      padding: 5px;
+      font-family: cursive;
+      font-size: 18px;
+      float: right;
+      margin:5px;
+    }
+    p, h2, li, table{
+        font-family: cursive;
+        color: darkgreen;
+    }
+    .Titulo{
+        text-align: center;
+        color:rgb(255, 255, 255);
+        font-size: 60px;
+        margin-bottom: 15px;
+        
+        
+    }
+    .imagen{
+        align-items:left;
+        width:400px;
+        height:240px;
+        float: left;
+        padding-right:15px;
+      
+    }
+    h3{
+        padding-top:30px;
+    }
+    .cambio-climatico{
+        padding-top: 80px;
+    }
+    a:hover, a:active{
+        color:red;
+    }
+    a, .a{
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    hr{
+        size: 1px; background-color:rgb(0, 0, 0);
+    }
+    #By-Oswaldo-Viloria{
+        text-align: center;
+        font-size: 18px;
+    }
+    th, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+        border-radius: 15px;
+    }
+    body{ 
+       background:rgb(104, 215, 86);}
+
+   
+
+        </style>
+    </head>
